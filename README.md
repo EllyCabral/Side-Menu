@@ -1,1 +1,1 @@
-# Content Slider
+# Side Menu
